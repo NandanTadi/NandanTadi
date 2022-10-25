@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NandanTadi
-- 👀 I’m very focused on IOS Development at the moment...
+- 👀 I’m very focused on learning at the moment...
 - 🌱 I’m currently building my portfolio @ nandantadi.com
 - 📫 Contact me through email: nandan.tadi@rutgers.edu
 
